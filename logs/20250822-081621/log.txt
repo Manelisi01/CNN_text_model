@@ -1,0 +1,280 @@
+Training on Epoch 0 
+Average loss: 0.7501287460327148 
+Average accuracy: 0.6167946927374302 
+F1 score: 0.6166864628208742 
+
+              precision    recall  f1-score   support
+
+           0       0.62      0.60      0.61     11455
+           1       0.61      0.63      0.62     11457
+
+    accuracy                           0.62     22912
+   macro avg       0.62      0.62      0.62     22912
+weighted avg       0.62      0.62      0.62     22912
+*************************
+Validation on Epoch 0 
+Average loss: 0.6376909613609314 
+Average accuracy: 0.6622869318181818 
+F1 score 0.662228788672355 
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.65      0.66      2812
+           1       0.66      0.68      0.67      2820
+
+    accuracy                           0.66      5632
+   macro avg       0.66      0.66      0.66      5632
+weighted avg       0.66      0.66      0.66      5632
+==================================================
+Training on Epoch 1 
+Average loss: 0.6473500728607178 
+Average accuracy: 0.6463861731843575 
+F1 score: 0.6462973916149756 
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.63      0.64     11455
+           1       0.64      0.66      0.65     11457
+
+    accuracy                           0.65     22912
+   macro avg       0.65      0.65      0.65     22912
+weighted avg       0.65      0.65      0.65     22912
+*************************
+Validation on Epoch 1 
+Average loss: 0.6287744045257568 
+Average accuracy: 0.6629971590909091 
+F1 score 0.6628733560206951 
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.64      0.66      2812
+           1       0.66      0.68      0.67      2820
+
+    accuracy                           0.66      5632
+   macro avg       0.66      0.66      0.66      5632
+weighted avg       0.66      0.66      0.66      5632
+==================================================
+Training on Epoch 2 
+Average loss: 0.6416424512863159 
+Average accuracy: 0.6500087290502793 
+F1 score: 0.6497796411452785 
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.62      0.64     11453
+           1       0.64      0.68      0.66     11459
+
+    accuracy                           0.65     22912
+   macro avg       0.65      0.65      0.65     22912
+weighted avg       0.65      0.65      0.65     22912
+*************************
+Validation on Epoch 2 
+Average loss: 0.6318284869194031 
+Average accuracy: 0.6619318181818182 
+F1 score 0.6600047927544485 
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.59      0.63      2812
+           1       0.64      0.74      0.69      2820
+
+    accuracy                           0.66      5632
+   macro avg       0.67      0.66      0.66      5632
+weighted avg       0.67      0.66      0.66      5632
+==================================================
+Training on Epoch 3 
+Average loss: 0.6373569965362549 
+Average accuracy: 0.6536312849162011 
+F1 score: 0.6532735050543871 
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.62      0.64     11454
+           1       0.64      0.69      0.66     11458
+
+    accuracy                           0.65     22912
+   macro avg       0.65      0.65      0.65     22912
+weighted avg       0.65      0.65      0.65     22912
+*************************
+Validation on Epoch 3 
+Average loss: 0.61582350730896 
+Average accuracy: 0.6706321022727273 
+F1 score 0.6697626505493695 
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.62      0.65      2812
+           1       0.66      0.72      0.69      2820
+
+    accuracy                           0.67      5632
+   macro avg       0.67      0.67      0.67      5632
+weighted avg       0.67      0.67      0.67      5632
+==================================================
+Training on Epoch 4 
+Average loss: 0.6101911664009094 
+Average accuracy: 0.6806040502793296 
+F1 score: 0.680601791807076 
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.68      0.68     11453
+           1       0.68      0.68      0.68     11459
+
+    accuracy                           0.68     22912
+   macro avg       0.68      0.68      0.68     22912
+weighted avg       0.68      0.68      0.68     22912
+*************************
+Validation on Epoch 4 
+Average loss: 0.6293666362762451 
+Average accuracy: 0.6644176136363636 
+F1 score 0.6644167249350228 
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.66      0.66      2812
+           1       0.66      0.67      0.67      2820
+
+    accuracy                           0.66      5632
+   macro avg       0.66      0.66      0.66      5632
+weighted avg       0.66      0.66      0.66      5632
+==================================================
+Training on Epoch 5 
+Average loss: 0.539689302444458 
+Average accuracy: 0.7329783519553073 
+F1 score: 0.7329775014865861 
+
+              precision    recall  f1-score   support
+
+           0       0.73      0.73      0.73     11459
+           1       0.73      0.73      0.73     11453
+
+    accuracy                           0.73     22912
+   macro avg       0.73      0.73      0.73     22912
+weighted avg       0.73      0.73      0.73     22912
+*************************
+Validation on Epoch 5 
+Average loss: 0.27528154850006104 
+Average accuracy: 0.8765980113636364 
+F1 score 0.8750491936815777 
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.86      2812
+           1       0.81      0.99      0.89      2820
+
+    accuracy                           0.88      5632
+   macro avg       0.90      0.88      0.88      5632
+weighted avg       0.90      0.88      0.88      5632
+==================================================
+Training on Epoch 6 
+Average loss: 0.20521345734596252 
+Average accuracy: 0.9172486033519553 
+F1 score: 0.9172447676240517 
+
+              precision    recall  f1-score   support
+
+           0       0.92      0.91      0.92     11454
+           1       0.91      0.92      0.92     11458
+
+    accuracy                           0.92     22912
+   macro avg       0.92      0.92      0.92     22912
+weighted avg       0.92      0.92      0.92     22912
+*************************
+Validation on Epoch 6 
+Average loss: 0.10715529322624207 
+Average accuracy: 0.9591619318181818 
+F1 score 0.9591463684180938 
+
+              precision    recall  f1-score   support
+
+           0       0.94      0.98      0.96      2812
+           1       0.98      0.94      0.96      2820
+
+    accuracy                           0.96      5632
+   macro avg       0.96      0.96      0.96      5632
+weighted avg       0.96      0.96      0.96      5632
+==================================================
+Training on Epoch 7 
+Average loss: 0.16810953617095947 
+Average accuracy: 0.9351868016759777 
+F1 score: 0.9351826672419153 
+
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93     11454
+           1       0.93      0.94      0.94     11458
+
+    accuracy                           0.94     22912
+   macro avg       0.94      0.94      0.94     22912
+weighted avg       0.94      0.94      0.94     22912
+*************************
+Validation on Epoch 7 
+Average loss: 0.09293889254331589 
+Average accuracy: 0.9657315340909091 
+F1 score 0.9657094440016105 
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.94      0.96      2812
+           1       0.94      0.99      0.97      2820
+
+    accuracy                           0.97      5632
+   macro avg       0.97      0.97      0.97      5632
+weighted avg       0.97      0.97      0.97      5632
+==================================================
+Training on Epoch 8 
+Average loss: 0.11980388313531876 
+Average accuracy: 0.9534741620111732 
+F1 score: 0.9534731098010679 
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95     11453
+           1       0.95      0.96      0.95     11459
+
+    accuracy                           0.95     22912
+   macro avg       0.95      0.95      0.95     22912
+weighted avg       0.95      0.95      0.95     22912
+*************************
+Validation on Epoch 8 
+Average loss: 0.06273283064365387 
+Average accuracy: 0.9776278409090909 
+F1 score 0.977626723623258 
+
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98      2812
+           1       0.97      0.98      0.98      2820
+
+    accuracy                           0.98      5632
+   macro avg       0.98      0.98      0.98      5632
+weighted avg       0.98      0.98      0.98      5632
+==================================================
+Training on Epoch 9 
+Average loss: 0.10025715827941895 
+Average accuracy: 0.9599773044692738 
+F1 score: 0.9599771825618404 
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96     11455
+           1       0.96      0.96      0.96     11457
+
+    accuracy                           0.96     22912
+   macro avg       0.96      0.96      0.96     22912
+weighted avg       0.96      0.96      0.96     22912
+*************************
+Validation on Epoch 9 
+Average loss: 0.0593094602227211 
+Average accuracy: 0.9772727272727273 
+F1 score 0.9772725065863977 
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98      2812
+           1       0.98      0.97      0.98      2820
+
+    accuracy                           0.98      5632
+   macro avg       0.98      0.98      0.98      5632
+weighted avg       0.98      0.98      0.98      5632
+==================================================
