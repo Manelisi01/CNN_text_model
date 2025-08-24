@@ -29,6 +29,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         "Testing a pretrained Character Based CNN for text classification"
     )
+    
+    parser.add_argument("--dropout_input", type=float, default=0.1)
     parser.add_argument("--model", type=str, help="path for pre-trained model")
     parser.add_argument("--text", type=str, default="I love pizza!", help="text string")
     parser.add_argument("--steps", nargs="+", default=["lower"])
@@ -48,4 +50,4 @@ if __name__ == "__main__":
     prediction = predict(args)
 
     print("input : {}".format(args.text))
-    print("prediction : {}".format(prediction))
+    print("prediction [Human, AI]: {}".format(prediction))
